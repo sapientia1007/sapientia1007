@@ -8,5 +8,5 @@
 
 ---
 
-<p align='center'><img height="160px" src="https://github-readme-stats.vercel.app/api?username=jjhcom" data-canonical-src="[https://github-readme-stats.vercel.app/api?username=jjhcom]([https://github-readme-stats.vercel.app/api?username=jjhcom](https://github.com/jjhcom/github-readme-stats)&amp;show_icons=true&amp;theme=radical&amp;title_color=7E6BC4&amp;bg_color=FFF5EA%border_color=7E6BC4&amp;text_color=C79ECF&amp;count_private=true&amp;icon_color=4A266A" style="max-width: 100%;"></p>
+<p align='center'><img height="160px" src="https://github-readme-stats.vercel.app/api?username=jjhcom" data-canonical-src="[https://github-readme-stats.vercel.app/api?username=jjhcom]([https://github.com/jjhcom/github-readme-stats]&amp;show_icons=true&amp;theme=radical&amp;title_color=7E6BC4&amp;bg_color=FFF5EA%border_color=7E6BC4&amp;text_color=C79ECF&amp;count_private=true&amp;icon_color=4A266A" style="max-width: 100%;"></p>
 
