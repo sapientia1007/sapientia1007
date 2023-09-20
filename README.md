@@ -9,7 +9,7 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/jjhcom/github-readme-stats">
+  <a href="https://github.com/jjhcom">
     <img src="https://github-readme-stats.vercel.app/api?username=jjhcom" alt="JJHCOM's GitHub stats" />
   </a>
 </p>
