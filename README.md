@@ -6,6 +6,7 @@
 <img alt="Hits" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjjhcom&count_bg=%23BDADFA&title_bg=%234266FF&icon=tapas.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
 </a></p>
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sagacious)](https://solved.ac/sagacious/)
 ---
 
 <p align="center">
