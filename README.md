@@ -12,9 +12,6 @@
 <p align="center">
 <a href="https://github.com/jjhcom">
 <img src="https://github-readme-stats.vercel.app/api?username=jjhcom" alt="JJHCOM's GitHub stats" />
-<a href="https://solved.ac/sagacious/">
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sagacious"/>
-</a>
 </p>
 
 
