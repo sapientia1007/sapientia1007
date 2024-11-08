@@ -97,5 +97,5 @@
 ---
 
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/sapientia1007"/>
+  <img src="https://render.gitanimals.org/farms/sapientia1007" width=500 height=500/>
 </a>
