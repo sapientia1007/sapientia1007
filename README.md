@@ -7,11 +7,12 @@
 ## 💜 INTRODUCE ABOUT MYSELF 💜         
 
 </div>    
- 
 
-* 🖐🏻 I'm Back-End Developer.
-* 👩🏻‍💻 I’m currently learning HARD about Web-Development.
+<div align="center">     
+🖐🏻 I'm Back-End Developer.
 
+👩🏻‍💻 I’m currently learning HARD about Web-Development.
+</div>
 
 <div>
 
