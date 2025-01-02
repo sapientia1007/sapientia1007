@@ -4,14 +4,13 @@
 <div align="center">     
     
   
-  
 ## 💜 INTRODUCE ABOUT MYSELF 💜         
 
 </div>    
  
 
 * 🖐🏻 I'm Back-End Developer.
-* 👩🏻‍💻 I’m currently learning HARD about Web-Development     .
+* 👩🏻‍💻 I’m currently learning HARD about Web-Development.
 
 
 <div>
@@ -20,7 +19,7 @@
 </div>
         
 <div align="center">       
-<img height="140px" src="https://github-readme-stats.vercel.app/api?username=sapientia1007&show_icons=true&theme=radical&title_color=7E6BC4&bg_color=FFF5EA%border_color=7E6BC4&text_color=C79ECF&count_private=true&icon_color=4A266A" />-
+<img height="140px" src="https://github-readme-stats.vercel.app/api?username=sapientia1007&show_icons=true&theme=radical&title_color=7E6BC4&bg_color=FFF5EA%border_color=7E6BC4&text_color=C79ECF&count_private=true&icon_color=4A266A" />
 <br> 
 <img height="140px" src="https://github-readme-streak-stats.herokuapp.com/?user=sapientia1007&theme=default&ring=7E6BC4&currStreakLabel=7E6BC4&fire=C79ECF" /></a>
 
